@@ -16,4 +16,3 @@ print(text_string[-3])
 print(len(text_string))
 print(text_string[::-1])
 print(text_string[:8])
-
