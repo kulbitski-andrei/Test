@@ -1,0 +1,4 @@
+Cheeseburger Hamburger
+Pizza Avocado
+Cats Dogs Hedgehogs
+Python
